@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             schemaversie="1.0.3">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/gm0355/2020/lichtaandachtsgebied</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0355/2020/lichtaandachtsgebied/nld@2020-10-13</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftGeboorteregeling>/akn/nl/act/gm0355/2020/OPZEI001/nld@2020-10-01;1</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>lichtaandachtsgebied.gml</bestandsnaam>
+                  <hash>278cb64207ef1096892e059cee764674391a2e271cebb91005234247eb3df3ff136a62852251f64489d23f4a4bb7cc610a4a442d29f8f84ea569838d268a311f</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0355</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0355</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>lichtaandachtsgebied</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/gm0355/2020/lichtaandachtsgebied/nld@2020-10-13</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <naamInformatieObject>lichtaandachtsgebied</naamInformatieObject>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>

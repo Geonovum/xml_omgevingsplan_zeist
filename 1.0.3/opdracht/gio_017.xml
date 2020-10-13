@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             schemaversie="1.0.3">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/gm0355/2020/zelfbouwlocatie</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0355/2020/zelfbouwlocatie/nld@2020-10-13</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftGeboorteregeling>/akn/nl/act/gm0355/2020/OPZEI001/nld@2020-10-01;1</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>zelfbouwlocatie.gml</bestandsnaam>
+                  <hash>d04a0af43e0111d0c91d1e0024739725cdc8af86ccda800b2238e744fd424d09ab434721f1ee23642b4f267f6ad90533af2d7019030ddd2f5b3929972031fcf3</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0355</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0355</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>zelfbouwlocatie</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/gm0355/2020/zelfbouwlocatie/nld@2020-10-13</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <naamInformatieObject>zelfbouwlocatie</naamInformatieObject>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>
