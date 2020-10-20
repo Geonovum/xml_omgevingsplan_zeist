@@ -4,7 +4,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/gm0355/2020/gestapeld</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0355/2020/gestapeld/nld@2020-10-13</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/gm0355/2020/gestapeld/nld@2020-08-19;3520</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -24,7 +24,7 @@
          <alternatieveTitels>
             <alternatieveTitel>gestapelde bouw</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0355/2020/gestapeld/nld@2020-10-13</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0355/2020/gestapeld</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <naamInformatieObject>gestapelde bouw</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>

@@ -8,8 +8,8 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/gm0355/2020/verkeervervoer</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm0355/2020/verkeervervoer/nld@2020-08-19;3520</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/gm0355/2020/speelveld</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/gm0355/2020/speelveld/nld@2020-08-19;3520</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:geometrie>

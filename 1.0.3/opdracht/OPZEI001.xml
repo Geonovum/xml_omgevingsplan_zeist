@@ -26,7 +26,7 @@
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
          <informatieobjectRefs>
             <informatieobjectRef>/join/id/regdata/gm0355/2020/ambtsgebied/nld@2020-08-19;3520</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/gm0355/2020/ambtsgebied/nld@2020-08-19;3520</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0355/2020/bebouwingscontourhoutkap/nld@2020-08-19;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0355/2020/laanstructuur/nld@2020-08-19;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0355/2020/beschermingszonelaanstructuur1/nld@2020-08-19;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0355/2020/beschermingszonelaanstructuur2/nld@2020-08-19;3520</informatieobjectRef>
@@ -37,8 +37,8 @@
             <informatieobjectRef>/join/id/regdata/gm0355/2020/meldingszonewaardevolgroen/nld@2020-08-19;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0355/2020/ontwikkellocatie/nld@2020-08-19;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0355/2020/openbaargebied/nld@2020-08-19;3520</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/gm0355/2020/verkeervervoer/nld@2020-08-19;3520</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/gm0355/2020/verkeervervoer/nld@2020-08-19;3520</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0355/2020/speelveld/nld@2020-08-19;3520</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0355/2020/sportveld/nld@2020-08-19;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0355/2020/waardevolgroen/nld@2020-08-19;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0355/2020/woongebieden/nld@2020-08-19;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0355/2020/zelfbouwlocatie/nld@2020-08-19;3520</informatieobjectRef>
@@ -82,113 +82,113 @@
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/gm0355/2020/ambtsgebied/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_1</eId>
+               <instrumentVersie>/join/id/regdata/gm0355/2020/bebouwingscontourhoutkap/nld@2020-08-19;3520</instrumentVersie>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0355/2020/laanstructuur/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_2</eId>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0355/2020/beschermingszonelaanstructuur1/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_3</eId>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0355/2020/beschermingszonelaanstructuur2/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_4</eId>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0355/2020/beschermingszonelaanstructuur3/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_5</eId>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0355/2020/gestapeld/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_6</eId>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_6__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0355/2020/licht/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_7</eId>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_7__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0355/2020/lichtaandachtsgebied/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_8</eId>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0355/2020/meldingszonewaardevolgroen/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_9</eId>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_9__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0355/2020/ontwikkellocatie/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_10</eId>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_10__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0355/2020/openbaargebied/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_11</eId>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_11__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/gm0355/2020/verkeervervoer/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_12</eId>
+               <instrumentVersie>/join/id/regdata/gm0355/2020/speelveld/nld@2020-08-19;3520</instrumentVersie>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_12__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/gm0355/2020/verkeervervoer/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_13</eId>
+               <instrumentVersie>/join/id/regdata/gm0355/2020/sportveld/nld@2020-08-19;3520</instrumentVersie>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_13__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0355/2020/waardevolgroen/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_14</eId>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_14__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0355/2020/woongebieden/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_15</eId>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_15__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0355/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0355/2020/zelfbouwlocatie/nld@2020-08-19;3520</instrumentVersie>
-               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_16</eId>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_16__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -284,7 +284,8 @@
                               <Lijst eId="chp_2__subchp_2.1__art_2.1__list_o_1"
                                      wId="gm0355_1__chp_2__subchp_2.1__art_2.1__list_o_1"
                                      type="expliciet">
-                                 <Lijstaanhef>Dit omgevingsplan is, met het oog op de doelen van artikel 1.3 van de Omgevingswet, gericht op:</Lijstaanhef>
+                                 <!-- het ambtsgebied is tijdelijk aan dit artikel gekoppeld, tot het ambtsgebied-object geïmplementeerd is in de keten -->
+                                 <Lijstaanhef>Dit <IntIoRef wId="gm0355_1__chp_2__subchp_2.1__art_2.1__list_o_1__ref_o_1" eId="chp_2__subchp_2.1__art_2.1__list_o_1__ref_o_1" ref="">omgevingsplan</IntIoRef> is, met het oog op de doelen van artikel 1.3 van de Omgevingswet, gericht op:</Lijstaanhef>
                                  <Li eId="chp_2__subchp_2.1__art_2.1__list_o_1__item_a"
                                      wId="gm0355_1__chp_2__subchp_2.1__art_2.1__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -3702,13 +3703,13 @@
                                         wId="gm0355_1__cmp_o_1__content_o_1__list_o_1">
                            <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1"
                                    wId="gm0355_1__cmp_o_1__content_o_1__list_o_1__item_o_1">
-                              <!--ambtsgebied.gml-->
+                              <!--bebouwingscontourhoutkap.gml-->
                               <Term>bebouwingscontour houtkap</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="gm0355_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/gm0355/2020/ambtsgebied/nld@2020-08-19;3520">/join/id/regdata/gm0355/2020/ambtsgebied/nld@2020-08-19;3520</ExtIoRef>
+                                              ref="/join/id/regdata/gm0355/2020/bebouwingscontourhoutkap/nld@2020-08-19;3520">/join/id/regdata/gm0355/2020/bebouwingscontourhoutkap/nld@2020-08-19;3520</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -3840,19 +3841,19 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_12__ref_o_1"
                                               wId="gm0355_1__cmp_o_1__content_o_1__list_o_1__item_o_12__ref_o_1"
-                                              ref="/join/id/regdata/gm0355/2020/verkeervervoer/nld@2020-08-19;3520">/join/id/regdata/gm0355/2020/verkeervervoer/nld@2020-08-19;3520</ExtIoRef>
+                                              ref="/join/id/regdata/gm0355/2020/speelveld/nld@2020-08-19;3520">/join/id/regdata/gm0355/2020/speelveld/nld@2020-08-19;3520</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_13"
                                    wId="gm0355_1__cmp_o_1__content_o_1__list_o_1__item_o_13">
-                              <!--speelveld.gml-->
+                              <!--sportveld.gml-->
                               <Term>sportveld</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_13__ref_o_1"
                                               wId="gm0355_1__cmp_o_1__content_o_1__list_o_1__item_o_13__ref_o_1"
-                                              ref="/join/id/regdata/gm0355/2020/verkeervervoer/nld@2020-08-19;3520">/join/id/regdata/gm0355/2020/verkeervervoer/nld@2020-08-19;3520</ExtIoRef>
+                                              ref="/join/id/regdata/gm0355/2020/sportveld/nld@2020-08-19;3520">/join/id/regdata/gm0355/2020/sportveld/nld@2020-08-19;3520</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -3889,6 +3890,18 @@
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_16__ref_o_1"
                                               wId="gm0355_1__cmp_o_1__content_o_1__list_o_1__item_o_16__ref_o_1"
                                               ref="/join/id/regdata/gm0355/2020/zelfbouwlocatie/nld@2020-08-19;3520">/join/id/regdata/gm0355/2020/zelfbouwlocatie/nld@2020-08-19;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_17"
+                              wId="gm0355_1__cmp_o_1__content_o_1__list_o_1__item_o_17">
+                              <!--ambtsgebied.gml-->
+                              <Term>ambtsgebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_17__ref_o_1"
+                                       wId="gm0355_1__cmp_o_1__content_o_1__list_o_1__item_o_17__ref_o_1"
+                                       ref="/join/id/regdata/gm0355/2020/ambtsgebied/nld@2020-08-19;3520">/join/id/regdata/gm0355/2020/ambtsgebied/nld@2020-08-19;3520</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>

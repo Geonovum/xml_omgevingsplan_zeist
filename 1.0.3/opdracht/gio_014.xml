@@ -3,8 +3,8 @@
                              schemaversie="1.0.3">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0355/2020/speelveld</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0355/2020/speelveld/nld@2020-10-13</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0355/2020/sportveld</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0355/2020/sportveld/nld@2020-08-19;3520</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,8 +12,8 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>speelveld.gml</bestandsnaam>
-                  <hash>26cc65dbb49d5202ea074007938a4625d1668cae4d07d7a4689c2d5abb94932429dcc5baf52337b7d1b774eee0d9be32a42811002e63c38a9004e71ce8e71930</hash>
+                  <bestandsnaam>sportveld.gml</bestandsnaam>
+                  <hash>135575c67195c5b74d3d5f8ad00dd82038bb75d0b6fac0761b253de29075b225fea5d42390d223daf844040aad9b38136a78f3af172144a8b34a2e5270fa1bf3</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -24,7 +24,7 @@
          <alternatieveTitels>
             <alternatieveTitel>sportveld</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0355/2020/speelveld/nld@2020-10-13</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0355/2020/sportveld</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <naamInformatieObject>sportveld</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>

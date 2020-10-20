@@ -61,7 +61,7 @@
             <l:Gebied>
                <l:identificatie>nl.imow-gm0355.gebied.202000020001</l:identificatie>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="b53ede01-3339-45f2-84ac-f1f039c98b58"/>
+                  <l:GeometrieRef xlink:href="d7cf9f5f-0098-4a7e-851b-e5228ff625e0"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -335,7 +335,7 @@
             <l:Gebied>
                <l:identificatie>nl.imow-gm0355.gebied.202000140001</l:identificatie>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="3bd9d431-eadf-4ddb-90ac-724b6224f110"/>
+                  <l:GeometrieRef xlink:href="b0a5fb32-4505-4ab9-8424-50d4b894c8c5"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
