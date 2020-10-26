@@ -85,6 +85,10 @@
       <lvbb:contentType>application/gml+xml</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
+      <lvbb:bestandsnaam>bebouwingscontourhoutkap.gml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/gml+xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
       <lvbb:bestandsnaam>beschermingszonelaanstructuur1.gml</lvbb:bestandsnaam>
       <lvbb:contentType>application/gml+xml</lvbb:contentType>
    </lvbb:bestand>
@@ -126,6 +130,10 @@
    </lvbb:bestand>
    <lvbb:bestand>
       <lvbb:bestandsnaam>speelveld.gml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/gml+xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>sportveld.gml</lvbb:bestandsnaam>
       <lvbb:contentType>application/gml+xml</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
