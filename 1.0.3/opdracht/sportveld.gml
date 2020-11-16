@@ -34,12 +34,4 @@
       </geo:locaties>
     </geo:GeoInformatieObjectVersie>
   </geo:vastgesteldeVersie>
-<<<<<<< Updated upstream
 </geo:GeoInformatieObjectVaststelling>
-=======
-<<<<<<< HEAD
-</geo:GeoInformatieObjectVaststelling>
-=======
-</geo:GeoInformatieObjectVaststelling>
->>>>>>> 9c1fab75ca16f0eaf22094ed16836a803b34414b
->>>>>>> Stashed changes
