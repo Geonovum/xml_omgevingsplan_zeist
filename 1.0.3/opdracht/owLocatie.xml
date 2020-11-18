@@ -220,8 +220,6 @@
                <l:noemer>meldingszone waardevol groen</l:noemer>
                <l:groepselement>
                   <l:GebiedRef xlink:href="nl.imow-gm0355.gebied.202000100001"/>
-                  <l:GebiedRef xlink:href="nl.imow-gm0355.gebied.202000100002"/>
-                  <l:GebiedRef xlink:href="nl.imow-gm0355.gebied.202000100003"/>
                </l:groepselement>
             </l:Gebiedengroep>
          </ow-dc:owObject>
@@ -232,26 +230,6 @@
                <l:identificatie>nl.imow-gm0355.gebied.202000100001</l:identificatie>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="45fdae21-9cfc-40ee-b644-b505dda7d2b8"/>
-               </l:geometrie>
-            </l:Gebied>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <l:Gebied>
-               <l:identificatie>nl.imow-gm0355.gebied.202000100002</l:identificatie>
-               <l:geometrie>
-                  <l:GeometrieRef xlink:href="7500c3e8-f425-449f-8735-9b381a9ad1b7"/>
-               </l:geometrie>
-            </l:Gebied>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <l:Gebied>
-               <l:identificatie>nl.imow-gm0355.gebied.202000100003</l:identificatie>
-               <l:geometrie>
-                  <l:GeometrieRef xlink:href="62baf6fa-b4df-4964-9934-5b9113463a9a"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -347,8 +325,6 @@
                <l:noemer>waardevol groen</l:noemer>
                <l:groepselement>
                   <l:GebiedRef xlink:href="nl.imow-gm0355.gebied.202000150001"/>
-                  <l:GebiedRef xlink:href="nl.imow-gm0355.gebied.202000150002"/>
-                  <l:GebiedRef xlink:href="nl.imow-gm0355.gebied.202000150003"/>
                </l:groepselement>
             </l:Gebiedengroep>
          </ow-dc:owObject>
@@ -359,26 +335,6 @@
                <l:identificatie>nl.imow-gm0355.gebied.202000150001</l:identificatie>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="0205f43e-deba-48cc-b0f4-b718589f82f9"/>
-               </l:geometrie>
-            </l:Gebied>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <l:Gebied>
-               <l:identificatie>nl.imow-gm0355.gebied.202000150002</l:identificatie>
-               <l:geometrie>
-                  <l:GeometrieRef xlink:href="99e41ac5-8400-40e3-92f1-fd6ab306bb55"/>
-               </l:geometrie>
-            </l:Gebied>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <l:Gebied>
-               <l:identificatie>nl.imow-gm0355.gebied.202000150003</l:identificatie>
-               <l:geometrie>
-                  <l:GeometrieRef xlink:href="690853fa-f0af-45bf-9876-d31181e045dd"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
